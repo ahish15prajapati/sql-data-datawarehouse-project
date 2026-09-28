@@ -1,0 +1,40 @@
+/*
+=============================================================================================
+Create database and Schemas 
+=============================================================================================
+Script purpose :
+     This scrip create new database named 'retail_sales_DataWarehouse' 
+     ThE scrip also creates three schemas within the database:
+        - bronze
+        - silver
+        - gold
+
+WARNING :
+    If the database already exists, this script will DROP the existing database
+    and recreate it. All data in the database will be permanently deleted.
+=============================================================================================
+*/
+-- create database
+USE master;
+GO
+
+IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'retail_sales_DataWarehouse')
+    BEGIN
+        ALTER DATABASE retail_sales_DataWarehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+        DROP DATABASE retail_sales_DataWarehouse;
+    END;
+GO
+
+CREATE DATABASE retail_sales_DataWarehouse;
+GO
+
+-- use your database
+USE retail_sales_DataWarehouse; 
+GO
+
+-- create schema 
+CREATE SCHEMA bronze;
+GO
+CREATE SCHEMA silver;
+GO
+CREATE SCHEMA gold;
