@@ -1,6 +1,6 @@
 /*
 ====================================================================================================
-CREATE TABLES IN BRONZE LAYER (STORE ROW DATA)
+DDL SCRIPT: CREATE TABLES IN BRONZE LAYER (STORE ROW DATA)
 ====================================================================================================
 SCRIPT PURPOSE :
       TO CREATE TABLES customer table, product table, sales table 
