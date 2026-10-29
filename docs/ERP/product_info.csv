@@ -1,0 +1,201 @@
+﻿product_id,product_name,category,subcategory,brand,unit_price,cost_price
+P001,Samsung Galaxy M14,Electronics,Mobile,Samsung,14999,11000
+P002, Apple iPhone 15 ,electronics,Mobile,Apple,69999,58000
+P003,OnePlus Nord CE 3,Electronics,Mobile,OnePlus,26999,21000
+P004,Redmi Note 13,ELECTRONICS,Mobile,Xiaomi,17999,13500
+P005,Realme Narzo 70,Electronics,Mobile,Realme,14999,11200
+P006,Vivo V30,Electronics,Mobile,Vivo,33999,27000
+P007,Oppo A79,electronics,Mobile,Oppo,19999,15500
+P008,boAt Airdopes 141,ELECTRONICS,Audio,boAt,1299,700
+P009,Sony WH-CH520,Electronics,Audio,Sony,4499,3100
+P010,JBL Tune 510BT,Electronics,Audio,JBL,2999,1900
+P011,Samsung 43 Inch TV,Electronics,Television,Samsung,38999,31500
+P012,LG 43 Inch Smart TV,electronics,Television,LG,36999,29500
+P013,Sony Bravia 50 Inch,Electronics,Television,Sony,54999,45000
+P014,Mi 32 Inch Smart TV,Electronics,Television,Xiaomi,24999,19500
+P015,OnePlus 55 Inch TV,ELECTRONICS,Television,OnePlus,42999,34000
+P016,Dell Inspiron Laptop,Electronics,Laptop,Dell,62999,51000
+P017,HP Pavilion Laptop,electronics,Laptop,HP,67999,55000
+P018,Lenovo IdeaPad Slim,Electronics,Laptop,Lenovo,57999,46000
+P019,Acer Aspire 5,Electronics,Laptop,Acer,52999,42000
+P020,Apple MacBook Air,Electronics,Laptop,Apple,99999,83000
+P021,Logitech Wireless Mouse,Electronics,Accessories,Logitech,1299,750
+P022,HP Wireless Keyboard,electronics,Accessories,HP,1599,950
+P023,SanDisk 128GB Pen Drive,Electronics,Storage,SanDisk,999,600
+P024,WD 1TB External HDD,Electronics,Storage,Western Digital,5499,3900
+P025,Samsung 256GB SSD,ELECTRONICS,Storage,Samsung,3499,2500
+P026,Nike Running Shoes,Footwear,Sports,Nike,4999,3200
+P027,Adidas Sports Shoes,footwear,Sports,Adidas,4599,3000
+P028,Puma Running Shoes,Footwear,Sports,Puma,3999,2600
+P029,Skechers Walking Shoes,Footwear,Casual,Skechers,5999,4100
+P030,Reebok Training Shoes,FOOTWEAR,Sports,Reebok,4299,2850
+P031,Nike Men's T-Shirt,Fashion,Men,Nike,1999,1200
+P032,Levis Men's Jeans,fashion,Men,Levis,2999,1800
+P033,Puma Men's T-Shirt,Fashion,Men,Puma,1599,900
+P034,Adidas Men's Track Pants,Fashion,Men,Adidas,2499,1550
+P035,Allen Solly Formal Shirt,FASHION,Men,Allen Solly,2299,1450
+P036,Van Heusen Formal Shirt,Fashion,Men,Van Heusen,2499,1600
+P037,Peter England Trousers,fashion,Men,Peter England,1999,1250
+P038,Levis Men's Jacket,Fashion,Men,Levis,4999,3200
+P039,Roadster Casual Shirt,Fashion,Men,Roadster,1499,850
+P040,HRX Sports T-Shirt,FASHION,Men,HRX,1299,750
+P041,Biba Women's Kurti,Fashion,Women,Biba,1899,1100
+P042,FabIndia Cotton Kurta,fashion,Women,FabIndia,2499,1500
+P043,W for Woman Kurti,Fashion,Women,W,1999,1200
+P044,Aurelia Women's Kurta,Fashion,Women,Aurelia,1799,1050
+P045,Libas Printed Kurta,FASHION,Women,Libas,1599,900
+P046,Max Women's Top,Fashion,Women,Max,999,550
+P047,Westside Women's Dress,fashion,Women,Westside,2499,1450
+P048,ONLY Women's Jeans,Fashion,Women,ONLY,2999,1900
+P049,Levis Women's Jeans,Fashion,Women,Levis,3299,2050
+P050,Allen Solly Women's Shirt,FASHION,Women,Allen Solly,2199,1350
+P051,Prestige Pressure Cooker,Home & Kitchen,Kitchen,Prestige,2499,1700
+P052,Hawkins Pressure Cooker,home & kitchen,Kitchen,Hawkins,2299,1550
+P053,Pigeon Gas Stove,Home & Kitchen,Kitchen,Pigeon,2999,2050
+P054,Prestige Induction Cooktop,HOME & KITCHEN,Appliances,Prestige,2199,1450
+P055,Bajaj Mixer Grinder,Home & Kitchen,Appliances,Bajaj,3499,2400
+P056,Philips Mixer Grinder,home & kitchen,Appliances,Philips,3999,2750
+P057,Butterfly Mixer Grinder,Home & Kitchen,Appliances,Butterfly,3299,2200
+P058,Havells Electric Kettle,HOME & KITCHEN,Appliances,Havells,1799,1150
+P059,Prestige Electric Kettle,Home & Kitchen,Appliances,Prestige,1599,1000
+P060,Milton Water Bottle,Home & Kitchen,Kitchen,Milton,699,400
+P061,Cello Water Bottle,home & kitchen,Kitchen,Cello,599,350
+P062,Tupperware Storage Container,Home & Kitchen,Storage,Tupperware,899,550
+P063,Borosil Glass Set,Home & Kitchen,Kitchen,Borosil,999,600
+P064,Solimo Dinner Set,HOME & KITCHEN,Kitchen,Solimo,1499,900
+P065,SleepyCat Mattress,Home & Furniture,Bedroom,SleepyCat,12999,8500
+P066,Wakefit Mattress,home & furniture,Bedroom,Wakefit,14999,9800
+P067,Nilkamal Plastic Chair,Home & Furniture,Furniture,Nilkamal,1899,1200
+P068,Godrej Office Chair,Home & Furniture,Furniture,Godrej,7999,5500
+P069,Ikea Study Table,HOME & FURNITURE,Furniture,Ikea,6999,4800
+P070,Urban Ladder Coffee Table,Home & Furniture,Furniture,Urban Ladder,8999,6200
+P071,Philips LED Bulb 9W,Electronics,Lighting,Philips,149,80
+P072,Syska LED Bulb 12W,electronics,Lighting,Syska,179,95
+P073,Wipro LED Bulb 9W,Electronics,Lighting,Wipro,159,85
+P074,Havells LED Tube Light,ELECTRONICS,Lighting,Havells,599,380
+P075,Philips Emergency Light,Electronics,Lighting,Philips,1299,800
+P076,Dabur Honey 500g,Grocery,Food,Dabur,299,210
+P077,Patanjali Honey 500g,grocery,Food,Patanjali,249,175
+P078,Tata Salt 1kg,Grocery,Staples,Tata,30,22
+P079,Aashirvaad Atta 5kg,Grocery,Staples,Aashirvaad,299,240
+P080,Fortune Sunflower Oil 1L,GROCERY,Cooking Oil,Fortune,149,125
+P081,Tata Tea 500g,Grocery,Beverages,Tata,285,220
+P082,Bru Instant Coffee 200g,grocery,Beverages,Bru,399,310
+P083,Nescafe Classic 200g,Grocery,Beverages,Nescafe,449,350
+P084,Parle-G Biscuits,Grocery,Snacks,Parle,30,23
+P085,Britannia Good Day,GROCERY,Snacks,Britannia,40,30
+P086,Lay's Classic Salted,Grocery,Snacks,Lay's,20,15
+P087,Kurkure Masala Munch,grocery,Snacks,Kurkure,20,15
+P088,Haldiram's Bhujia 200g,Grocery,Snacks,Haldiram's,85,62
+P089,Amul Butter 500g,Grocery,Dairy,Amul,285,240
+P090,Amul Cheese 200g,GROCERY,Dairy,Amul,145,115
+P091,Mother Dairy Milk 1L,Grocery,Dairy,Mother Dairy,68,58
+P092,Amul Lassi 1L,grocery,Dairy,Amul,75,60
+P093,Surf Excel 2kg,Grocery,Household,Surf Excel,399,320
+P094,Ariel Matic 2kg,GROCERY,Household,Ariel,449,355
+P095,Vim Dishwash Liquid,Grocery,Household,Vim,199,150
+P096,Harpic Toilet Cleaner,grocery,Household,Harpic,219,165
+P097,Colgate Toothpaste 200g,Personal Care,Oral Care,Colgate,149,105
+P098,Closeup Toothpaste 150g,personal care,Oral Care,Closeup,125,90
+P099,Dabur Red Toothpaste,Personal Care,Oral Care,Dabur,110,78
+P100,Pepsodent Toothpaste,PERSONAL CARE,Oral Care,Pepsodent,105,75
+P101,Dove Shampoo 650ml,Personal Care,Hair Care,Dove,499,360
+P102,Pantene Shampoo 650ml,personal care,Hair Care,Pantene,529,380
+P103,Head & Shoulders Shampoo,Personal Care,Hair Care,H&S,549,390
+P104,Clinic Plus Shampoo,PERSONAL CARE,Hair Care,Clinic Plus,299,210
+P105,Sunsilk Shampoo 650ml,Personal Care,Hair Care,Sunsilk,399,280
+P106,Dove Body Wash,Personal Care,Bath & Body,Dove,299,210
+P107,Nivea Body Lotion,personal care,Bath & Body,Nivea,349,250
+P108,Vaseline Body Lotion,Personal Care,Bath & Body,Vaseline,299,215
+P109,Lux Body Wash,PERSONAL CARE,Bath & Body,Lux,249,175
+P110,Pears Soap Pack,Personal Care,Bath & Body,Pears,180,130
+P111,Lakme Face Cream,Beauty,Skin Care,Lakme,399,285
+P112,Maybelline Lipstick,beauty,Makeup,Maybelline,599,410
+P113,Lakme Kajal,Beauty,Makeup,Lakme,249,165
+P114,Himalaya Face Wash,BEAUTY,Skin Care,Himalaya,199,140
+P115,Mamaearth Face Wash,Beauty,Skin Care,Mamaearth,399,275
+P116,Ponds Face Cream,beauty,Skin Care,Ponds,299,205
+P117,Nivea Face Wash,Beauty,Skin Care,Nivea,249,170
+P118,Gillette Shaving Cream,PERSONAL CARE,Men's Grooming,Gillette,199,135
+P119,Gillette Mach3 Razor,Personal Care,Men's Grooming,Gillette,399,280
+P120,Park Avenue Deodorant,personal care,Men's Grooming,Park Avenue,249,175
+P121,Wild Stone Perfume,Beauty,Fragrance,Wild Stone,599,390
+P122,Engage Perfume,beauty,Fragrance,Engage,499,325
+P123,Fogg Deodorant,Beauty,Fragrance,Fogg,299,200
+P124,Denver Perfume,BEAUTY,Fragrance,Denver,399,270
+P125,Woodland Casual Shoes,Footwear,Casual,Woodland,6999,4700
+P126,Bata Formal Shoes,footwear,Formal,Bata,2999,1900
+P127,Metro Women's Sandals,Footwear,Women,Metro,2499,1600
+P128,Paragon Men's Slippers,FOOTWEAR,Casual,Paragon,699,450
+P129,Sparx Sports Shoes,Footwear,Sports,Sparx,1799,1100
+P130,Campus Running Shoes,footwear,Sports,Campus,1999,1250
+P131,Wildcraft Backpack,Bags,Backpacks,Wildcraft,2499,1650
+P132,Skybags Backpack,bags,Backpacks,Skybags,1999,1300
+P133,American Tourister Trolley,Bags,Luggage,American Tourister,5999,4100
+P134,VIP Trolley Bag,BAGS,Luggage,VIP,4999,3300
+P135,Safari Laptop Bag,Bags,Laptop Bags,Safari,1799,1150
+P136,Fastrack Analog Watch,Accessories,Watches,Fastrack,2499,1650
+P137,Titan Analog Watch,accessories,Watches,Titan,4999,3400
+P138,Sonata Analog Watch,Accessories,Watches,Sonata,1499,950
+P139,Casio Digital Watch,ACCESSORIES,Watches,Casio,2999,2050
+P140,Fastrack Sunglasses,Accessories,Eyewear,Fastrack,1999,1250
+P141,Ray-Ban Sunglasses,accessories,Eyewear,Ray-Ban,8999,6200
+P142,Vincent Chase Sunglasses,Accessories,Eyewear,Vincent Chase,1499,900
+P143,Peter England Belt,Accessories,Fashion Accessories,Peter England,999,600
+P144,Levis Wallet,ACCESSORIES,Fashion Accessories,Levis,1299,800
+P145,Wildcraft Wallet,Accessories,Fashion Accessories,Wildcraft,899,550
+P146,Classmate Notebook,Stationery,Notebooks,Classmate,80,55
+P147,Navneet Notebook,stationery,Notebooks,Navneet,70,48
+P148,Camlin Notebook,Stationery,Notebooks,Camlin,65,45
+P149,Cello Ball Pen Pack,STATIONERY,Writing,Cello,120,80
+P150,Reynolds Ball Pen Pack,Stationery,Writing,Reynolds,100,68
+P151,Faber-Castell Pencil Set,Stationery,Writing,Faber-Castell,90,60
+P152,Camlin Geometry Box,stationery,School Supplies,Camlin,150,100
+P153,Classmate Drawing Book,Stationery,Art Supplies,Classmate,100,65
+P154,Fevicol MR 100g,STATIONERY,Craft,Fevicol,55,38
+P155,Apsara Pencil Pack,Stationery,Writing,Apsara,60,40
+P156,Crompton Ceiling Fan,Appliances,Fans,Crompton,3499,2400
+P157,Havells Ceiling Fan,appliances,Fans,Havells,4299,2950
+P158,Orient Electric Fan,Appliances,Fans,Orient,3299,2250
+P159,Bajaj Table Fan,APPLIANCES,Fans,Bajaj,2199,1500
+P160,Usha Table Fan,Appliances,Fans,Usha,1999,1350
+P161,LG Refrigerator 260L,Appliances,Refrigerator,LG,32999,27000
+P162,Samsung Refrigerator 253L,appliances,Refrigerator,Samsung,34999,28500
+P163,Whirlpool Refrigerator 265L,Appliances,Refrigerator,Whirlpool,31999,26000
+P164,Godrej Refrigerator 236L,APPLIANCES,Refrigerator,Godrej,29999,24500
+P165,IFB Washing Machine 7kg,Appliances,Washing Machine,IFB,28999,23000
+P166,LG Washing Machine 7kg,appliances,Washing Machine,LG,30999,25000
+P167,Samsung Washing Machine 7kg,Appliances,Washing Machine,Samsung,32999,26500
+P168,Whirlpool Washing Machine,APPLIANCES,Washing Machine,Whirlpool,29999,24000
+P169,Bajaj Room Heater,Appliances,Heating,Bajaj,2299,1500
+P170,Usha Room Heater,appliances,Heating,Usha,1999,1300
+P171,Philips Air Fryer,Appliances,Kitchen Appliances,Philips,6999,4800
+P172,Prestige Air Fryer,APPLIANCES,Kitchen Appliances,Prestige,5999,4000
+P173,Bajaj Toaster,Appliances,Kitchen Appliances,Bajaj,1799,1150
+P174,Morphy Richards Toaster,appliances,Kitchen Appliances,Morphy Richards,2999,1950
+P175,Philips Iron,Appliances,Home Appliances,Philips,1699,1100
+P176,Bajaj Steam Iron,APPLIANCES,Home Appliances,Bajaj,1999,1300
+P177,Prestige Gas Stove 3 Burner,Home & Kitchen,Kitchen,Prestige,4999,3300
+P178,Pigeon Electric Chopper,home & kitchen,Kitchen,Pigeon,1299,800
+P179,Wonderchef Cookware Set,Home & Kitchen,Cookware,Wonderchef,4999,3200
+P180,Hawkins Frying Pan,HOME & KITCHEN,Cookware,Hawkins,1199,750
+P181,Milton Thermosteel Flask,Home & Kitchen,Kitchen,Milton,1299,800
+P182,Cello Insulated Flask,home & kitchen,Kitchen,Cello,999,620
+P183,Tupperware Lunch Box,Home & Kitchen,Storage,Tupperware,799,480
+P184,Milton Lunch Box,HOME & KITCHEN,Storage,Milton,699,420
+P185,Nilkamal Storage Box,Home & Furniture,Storage,Nilkamal,999,650
+P186,Ikea Bookshelf,home & furniture,Furniture,Ikea,5999,4000
+P187,Wakefit Office Chair,Home & Furniture,Furniture,Wakefit,6999,4600
+P188,Godrej Bookshelf,HOME & FURNITURE,Furniture,Godrej,7999,5400
+P189,Urban Ladder Sofa,Home & Furniture,Living Room,Urban Ladder,29999,21000
+P190,SleepyCat Pillow,home & furniture,Bedroom,SleepyCat,999,600
+P191,Wakefit Pillow,Home & Furniture,Bedroom,Wakefit,899,550
+P192,Bombay Dyeing Bedsheet,Home & Furniture,Bed Linen,Bombay Dyeing,1499,950
+P193,Spaces Bedsheet,HOME & FURNITURE,Bed Linen,Spaces,1799,1150
+P194,Raymond Formal Shirt,Fashion,Men,Raymond,2999,1900
+P195,Manyavar Kurta,fashion,Men,Manyavar,2499,1600
+P196,W for Woman Dress,Fashion,Women,W,2999,1900
+P197,Biba Women's Saree,Fashion,Women,Biba,3499,2200
+P198,FabIndia Cotton Saree,FASHION,Women,FabIndia,3999,2600
+P199,Allen Solly Blazer,Fashion,Men,Allen Solly,5999,3800
+P200,Van Heusen Blazer,fashion,Men,Van Heusen,6499,4200

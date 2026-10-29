@@ -1,0 +1,21 @@
+﻿store_id,store_name,city,state,pincode,store_type,opening_date
+ST001,Mumbai Central Store,Mumbai,Maharashtra,400008,Supermarket,2020-01-15
+ST002, Pune Store ,Pune,maharashtra,411001,Supermarket,2021-03-20
+ST003,Bangalore Store,Bangalore,Karnataka,560001,Hypermarket,2019-06-10
+ST004,Delhi North Store,Delhi,Delhi,110007,Supermarket,2022-01-05
+ST005,Jaipur Store,Jaipur,Rajasthan,302001,Hypermarket,2020-11-15
+ST006,Ahmedabad Store,Ahmedabad,Gujarat,380001,Supermarket,2021-07-18
+ST007,Hyderabad Store,Hyderabad,Telangana,500001,Hypermarket,2019-09-12
+ST008,Chennai Central Store,Chennai,Tamil Nadu,600001,Supermarket,2020-04-22
+ST009,Kolkata Store,Kolkata,West Bengal,700001,Hypermarket,2018-12-10
+ST010,Kochi Store,Kochi,Kerala,682001,Supermarket,2021-02-14
+ST011,Lucknow Store,Lucknow,Uttar Pradesh,226001,Supermarket,2022-05-10
+ST012,Indore Store,Indore,Madhya Pradesh,452001,Hypermarket,2020-08-25
+ST013,Nagpur Store,Nagpur,Maharashtra,440001,Supermarket,2021-11-18
+ST014,Surat Store,Surat,Gujarat,395003,Hypermarket,2019-10-05
+ST015,Patna Store,Patna,Bihar,800001,Supermarket,2022-03-15
+ST016,Bhubaneswar Store,Bhubaneswar,Odisha,751001,Supermarket,2021-06-20
+ST017,Chandigarh Store,Chandigarh,Chandigarh,160017,Hypermarket,2020-09-30
+ST018,Gurgaon Store,Gurgaon,Haryana,122001,Supermarket,2019-05-12
+ST019,Coimbatore Store,Coimbatore,Tamil Nadu,641001,Supermarket,2022-07-08
+ST020,Mysore Store,Mysore,Karnataka,570001,Hypermarket,2020-02-28
