@@ -1,0 +1,64 @@
+/*
+==========================================================
+Quality Chesks
+==========================================================
+Script Purpose: 
+	This script perform quality checks to Validate the 
+	integrity cinsistency and accurcay of the gold layeer
+ -- this check ensure uniqueness of serrogate key in 
+    Dimension table validation of relationship in the
+	data model for analytic purpose 
+
+Usage notes:
+	this check after data loading silver layer 
+	investigation the relationship in the data model 
+	for analytical purpose
+==========================================================
+*/
+
+-- =========================================================
+-- Chechkingfor uniqueness of customer key in gold.dim_customer
+-- Expection: No review result
+
+SELECT  
+	customer_key,
+	COUNT(*) AS duplication
+FROM gold.dim_customer
+GROUP BY customer_key
+HAVING COUNT(*) > 1
+GO
+-- =========================================================
+-- Chechkingfor uniqueness of customer key in gold.dim_product
+-- Expection: No review result
+
+SELECT  
+	product_key,
+	COUNT(*) AS duplication
+FROM gold.dim_product
+GROUP BY product_key
+HAVING COUNT(*) > 1
+GO
+-- =========================================================
+-- Chechkingfor uniqueness of customer key in gold.dim_store
+-- Expection: No review result
+
+SELECT  
+	store_key,
+	COUNT(*) AS duplication
+FROM gold.dim_store
+GROUP BY store_key
+HAVING COUNT(*) > 1
+GO
+-- ===========================================================
+-- Foreign Key Integrity (Dimensions)
+-- Expection: no reviwe result
+
+SELECT *
+FROM gold.fact_sales f
+LEFT JOIN gold.dim_customer c
+ON f.customer_key = c.customer_key
+LEFT JOIN gold.dim_product p
+ON f.product_key = p.product_key
+LEFT JOIN gold.dim_store s
+ON f.store_key = s.store_key
+WHERE f.product_key IS NULL
